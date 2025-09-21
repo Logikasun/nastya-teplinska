@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <title></title>
+        <link rel= href="">
+    </head>
+    <body>
+        <header>
+            
+            <img class="icon"  src="https://i.pinimg.com/736x/e3/27/21/e3272119c9f1e051a603828276e269c2.jpg">
+        <nav class="gg">
+           
+         <a href="">park Jp</a>
+        <a href="">Anime</a>
+         
+        </nav>
+        </header>
+        <main>
+            <div class="tt">
+            <div class="aaa">
+            <p>Japan is an island country in East Asia, famous for its unique culture, technology, traditions, and beautiful nature.
+Popular places: 
+
+<ul>
+  <li> Tokyo — the modern capital with skyscrapers and neon lights.</li>
+<li>Kyoto — city of ancient temples and gardens.</li>
+<li>Osaka — known for street food and its castle.</li>
+<li> Mount Fuji — the tallest and most iconic mountain.</li>
+ <li>Hiroshima — city of peace and history.</li>
+ <li>Okinawa — tropical beaches and island nature.</li>
+ </ul>
+</p>
+</div>
+<div class="bbb">
+<img class="i"  src="https://cdn.getyourguide.com/img/tour/d3ebc260509818eb83e97b370243448c01bc81be12d6e3a3e8dc90cb5c77292c.jpg/vertical_520_780.jpg">
+</div>
+</div>
+        </main>
+        <footer>
+            <p> phone:  </p>
+            <p> instagram: </p>
+            
+        </footer>
+    </body>
+</html>
